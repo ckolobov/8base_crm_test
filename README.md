@@ -7,7 +7,6 @@
 * Go to the server directory `cd server`;
 * Select workspace `8base configure`;
 * Install dependencies `npm install`;
-* Deploy custom functions `8base deploy`;
 * Import schema via `8base import -f=TEST_APP.JSON --data=false`. This will take aroud 2 minutes;
 
 ## Client Setup
